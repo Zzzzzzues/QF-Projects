@@ -1,0 +1,17 @@
+{
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "TSLA"
+  ],
+  "start": "2022-01-01",
+  "end": "2025-01-01",
+  "risk_free": 0.0,
+  "n_portfolios": 10000,
+  "seed": 42,
+  "timestamp": 1763035319
+}
